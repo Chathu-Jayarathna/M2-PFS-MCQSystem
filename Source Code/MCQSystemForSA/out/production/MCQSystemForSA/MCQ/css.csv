@@ -1,0 +1,10 @@
+1.CSS Stands for...,A.Color and style sheets,B.Cascading style sheets,C.Cascade style sheets,D.None of above,B.Cascading style sheets
+2.What is the property used to change the bakground color of an element?,A.color,B.background-color,C.bgcolor,D.All of above,B.background-color
+3.What is the selector used to select the elements that do not match the selectors?,A.:!selector,B.:not selector,C.:emptyselector,D.None of above,B.:not selector
+4.Which property used to add shadows to the text?,A.text-shadow,B.text-storke,C.text-decoration,D.text-overflow,A.text-shadow
+5.Whta is the corret syntax to select all paragaraph elements in a div element?,A.p,B.div p,C.div#p,D.div-p,B.div p
+6.CSS property used to make the text bold is...,A.font-weight:bold,B.font:bold,C.weight:bold,D.style:bold,A.font-weight:bold
+7.HTML attribute used to define the internal stylesheet is..,A.<script>,B.<line>,C.style,D.<style>,D.<style>
+8.HTML attribute used to define the inline style is...,A.class,B.style,C.styles,D.None of above,B.style
+9.What is the correct syntax to give a line over test?,A.text-decoration:none,B.text-decoration:line-through,C.text-decoration:underline,D.text-decoration:overline,D.text-decoration:overline
+10.Which type of CSS is used in below code?,A.Internal css,B.External css,C.Inline css,D.None of above,C.Inline css

@@ -1,0 +1,10 @@
+1.How many choices are possible when using a single if-else statement?,A.1,B.3,C.2,D.4,C.2
+2.Which of these is used to add a third or fourth etc outcome to a scenario?,A.otherwise,B.if,C.else if,D.elsa,C.else if
+3.How many "else" statements can you pair with a single "if" statement,A.1,B.<20,C.<10,D.As many as is needed,A.1
+4.How many "else if" links can you have in an "if else if" ladder?,A.<10,B.<30,C.<20,D.As many as is needed,D.As many as is needed
+5.Which of the following for loops will be an infinite loop?,A.for(;;),B.for(i = 0; ;i++),C.for(i = 0;i < 1;i--),D.All of the above,D.All of the above
+6.What is the selection statments test only for equality?,A.switch,B.if,C.if & switch,D.none of above,A.switch
+7.What is the jump statments an skip processing the reminder of the code in its body for a particular iteraction?,A.exit,B.break,C.return,D.continue,D.continue
+8.What loop is best known for using an index or counter?,A.for(traditional),B.do-while loop,C.for-each,D.while,A.for(traditional)
+9.Which type of loop is guranteed to have the body execute at least one?,A.for(traditional),B.do-while loop,C.for-each,D.while,B.do-while loop
+10.Which keyword is used to end the current loop interation and proceed execution with the next iteration of that loop?,A.conitune,B.end,C.break,D.skip,A.conitune
